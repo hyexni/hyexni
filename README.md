@@ -32,4 +32,3 @@
 
 ---
 
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyexni&show_icons=true&theme=default&hide_border=true)
